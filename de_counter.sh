@@ -18,6 +18,7 @@ pdftotext Rijksuniversiteit_Groningen.pdf > Rijksuniversiteit_Groningen.txt
 # and count the amount of lines.
 NUMDEOCCUR=`grep -wo 'de' Rijksuniversiteit_Groningen.txt | wc -l` 
 
+# output the amount of occurences of the word 'de' in the Wikipedia text article.
 echo "The word 'de' occurs $NUMDEOCCUR times in the Wikipedia article."
 
 
