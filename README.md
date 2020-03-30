@@ -16,6 +16,14 @@ and counts how many times the word 'de' occurs in the text file.
 It outputs the amount of occurences of 'de' in the article,
 and displays this within an English sentence. 
 
-The output is as follows:
+The final output is as follows:
 
-The word 'de' occurs 238 times in the Wikipedia article.
+Total amount of left-wing articles about Trump with an overall positive sentiment: 234
+Total amount of right-wing articles about Trump with an overall positive sentiment: 208
+
+Total amount of left-wing articles about Trump with an overall negative sentiment: 358
+Total amount of right-wing articles about Trump with an overall negative sentiment: 369
+
+Depending on your version of Linux, the terminal will show the processes of extracting the zip files. 
+
+
